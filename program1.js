@@ -55,3 +55,4 @@ let grid2 = [
   ["W", "W", "W", "L", "L"],
 ];
 console.log(numIslands(grid2)); // Output: 3
+  
